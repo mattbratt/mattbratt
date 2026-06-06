@@ -44,7 +44,7 @@
 - **Shell** - Bash/shell scripts for system automation and scripting
 
 <p align="center">
-  <img alt="mattbratt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattbratt&theme=dark&hide_border=false&layout=compact&langs_count=6"/>
+  <img alt="mattbratt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattbratt&theme=github_dark&hide_border=true&layout=compact&langs_count=6&exclude_repo=frigate"/>
 </p>
 
 <br/>
@@ -54,9 +54,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="mattbratt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattbratt&theme=dark&hide_border=false&show_icons=true&count_private=false"/>
+  <img alt="mattbratt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattbratt&theme=github_dark&hide_border=true&show_icons=true&count_private=false"/>
   <br/>
-  <img alt="mattbratt's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=mattbratt&theme=dark&hide_border=false"/>
+  <img alt="mattbratt's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=mattbratt&theme=dark&hide_border=true"/>
 </p>
 
 <br/>
@@ -166,7 +166,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mattbratt&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mattbratt&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 <br/>
