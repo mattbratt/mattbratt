@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Matthew Baker 
+# 👋 Hey, I'm Matthew Baker
 
 ### Software & IoT Developer — Building things that talk to other things
 #### 📍 Titusville, FL &nbsp;·&nbsp; Literally next door to Kennedy Space Center 🚀
@@ -72,7 +72,7 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <div align="center">
 
