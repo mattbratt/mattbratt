@@ -72,7 +72,7 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <div align="center">
 
