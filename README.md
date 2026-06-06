@@ -76,8 +76,11 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 
 <div align="center">
 
-[![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattbratt&theme=github_dark&hide_border=true&show_icons=true&count_private=false)](https://github.com/mattbratt)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbratt&theme=github_dark&hide_border=true&layout=compact&langs_count=6&exclude_repo=frigate)](https://github.com/mattbratt)
+[![Commits](https://img.shields.io/github/commit-activity/y/mattbratt/iss_track?label=iss_track%20commits%2Fyr&style=flat-square&logo=github)](https://github.com/mattbratt/iss_track/commits/main)
+[![Commits](https://img.shields.io/github/commit-activity/y/mattbratt/pc_ships?label=pc_ships%20commits%2Fyr&style=flat-square&logo=github)](https://github.com/mattbratt/pc_ships/commits/main)
+
+[![ISS Track Release](https://img.shields.io/github/v/release/mattbratt/iss_track?label=iss_track&style=flat-square&logo=github)](https://github.com/mattbratt/iss_track/releases)
+[![pc_ships Release](https://img.shields.io/github/v/release/mattbratt/pc_ships?label=pc_ships&style=flat-square&logo=github)](https://github.com/mattbratt/pc_ships/releases)
 
 </div>
 
@@ -98,6 +101,6 @@ I'm open to interesting projects, collaboration, and conversations about IoT, ho
 
 *"The best code is the kind that makes you forget you wrote it — because it just works."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mattbratt&style=flat-square&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=mattbratt&style=flat-square&color=blue) -->
 
 </div>
