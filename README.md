@@ -5,10 +5,10 @@
 ### Software & IoT Developer — Building things that talk to other things
 #### 📍 Titusville, FL &nbsp;·&nbsp; Literally next door to Kennedy Space Center 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew%20Baker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewabaker/)
-[![GitHub](https://img.shields.io/badge/GitHub-mattbratt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mattbratt)
-[![X](https://img.shields.io/badge/X-@mattbratt-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mattbratt)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mattbratt-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mattbratt)
+<a href="https://www.linkedin.com/in/matthewabaker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Matthew%20Baker-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/mattbratt" target="_blank"><img src="https://img.shields.io/badge/GitHub-mattbratt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://x.com/mattbratt" target="_blank"><img src="https://img.shields.io/badge/X-@mattbratt-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+<a href="https://buymeacoffee.com/mattbratt" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mattbratt-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 
 </div>
 
@@ -35,7 +35,7 @@ When I'm not writing code, I'm probably deep in a home automation rabbit hole, f
 
 **Platforms & Tools**
 
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
+<a href="https://www.home-assistant.io/" target="_blank"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -54,7 +54,7 @@ When I'm not writing code, I'm probably deep in a home automation rabbit hole, f
 
 ## 🚀 Featured Projects
 
-### 🛸 [ISS Track](https://github.com/mattbratt/iss_track)
+### 🛸 <a href="https://github.com/mattbratt/iss_track" target="_blank">ISS Track</a>
 > *Because knowing exactly where the space station is overhead should be a dashboard, not a browser tab.*
 
 A Home Assistant integration that tracks the International Space Station in real-time. Displays live orbital data — latitude, longitude, altitude, speed — on an interactive world map with day/night views, sun and moon positions, and a direct link to the ISS live feed. Built from scratch; auto-creates its own Space dashboard on install.
@@ -63,7 +63,7 @@ A Home Assistant integration that tracks the International Space Station in real
 
 ---
 
-### 🚢 [Port Canaveral Ships](https://github.com/mattbratt/pc_ships)
+### 🚢 <a href="https://github.com/mattbratt/pc_ships" target="_blank">Port Canaveral Ships</a>
 > *Know what's coming in, going out, and docked at one of the world's busiest cruise ports — right from your smart home.*
 
 A Home Assistant integration that pulls real-time ship tracking data from Port Canaveral, FL. Monitor cargo and passenger vessels by status (In Port, Confirmed, Scheduled, Departed), with full sensor attributes per ship. HACS-compatible and actively maintained with 8+ releases.
@@ -76,11 +76,11 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 
 <div align="center">
 
-[![Commits](https://img.shields.io/github/commit-activity/y/mattbratt/iss_track?label=iss_track%20commits%2Fyr&style=flat-square&logo=github)](https://github.com/mattbratt/iss_track/commits/main)
-[![Commits](https://img.shields.io/github/commit-activity/y/mattbratt/pc_ships?label=pc_ships%20commits%2Fyr&style=flat-square&logo=github)](https://github.com/mattbratt/pc_ships/commits/main)
+<a href="https://github.com/mattbratt/iss_track/commits/main" target="_blank"><img src="https://img.shields.io/github/commit-activity/y/mattbratt/iss_track?label=iss_track%20commits%2Fyr&style=flat-square&logo=github" alt="ISS Track Commits"></a>
+<a href="https://github.com/mattbratt/pc_ships/commits/main" target="_blank"><img src="https://img.shields.io/github/commit-activity/y/mattbratt/pc_ships?label=pc_ships%20commits%2Fyr&style=flat-square&logo=github" alt="pc_ships Commits"></a>
 
-[![ISS Track Release](https://img.shields.io/github/v/release/mattbratt/iss_track?label=iss_track&style=flat-square&logo=github)](https://github.com/mattbratt/iss_track/releases)
-[![pc_ships Release](https://img.shields.io/github/v/release/mattbratt/pc_ships?label=pc_ships&style=flat-square&logo=github)](https://github.com/mattbratt/pc_ships/releases)
+<a href="https://github.com/mattbratt/iss_track/releases" target="_blank"><img src="https://img.shields.io/github/v/release/mattbratt/iss_track?label=iss_track&style=flat-square&logo=github" alt="ISS Track Release"></a>
+<a href="https://github.com/mattbratt/pc_ships/releases" target="_blank"><img src="https://img.shields.io/github/v/release/mattbratt/pc_ships?label=pc_ships&style=flat-square&logo=github" alt="pc_ships Release"></a>
 
 </div>
 
@@ -90,10 +90,10 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 
 I'm open to interesting projects, collaboration, and conversations about IoT, home automation, embedded systems, or anything that involves making code do something tangible in the real world.
 
-- 🔗 **LinkedIn:** [matthewabaker](https://www.linkedin.com/in/matthewabaker/)
-- 🐙 **GitHub:** [mattbratt](https://github.com/mattbratt)
-- 🐦 **X/Twitter:** [@mattbratt](https://x.com/mattbratt)
-- ☕ **Support my work:** [buymeacoffee.com/mattbratt](https://buymeacoffee.com/mattbratt)
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/matthewabaker/" target="_blank">matthewabaker</a>
+- 🐙 **GitHub:** <a href="https://github.com/mattbratt" target="_blank">mattbratt</a>
+- 🐦 **X/Twitter:** <a href="https://x.com/mattbratt" target="_blank">@mattbratt</a>
+- ☕ **Support my work:** <a href="https://buymeacoffee.com/mattbratt" target="_blank">buymeacoffee.com/mattbratt</a>
 
 ---
 
