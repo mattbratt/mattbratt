@@ -82,7 +82,7 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 <a href="https://github.com/mattbratt/iss_track/releases" target="_blank"><img src="https://img.shields.io/github/v/release/mattbratt/iss_track?label=iss_track&style=flat-square&logo=github" alt="ISS Track Release"></a>
 <a href="https://github.com/mattbratt/pc_ships/releases" target="_blank"><img src="https://img.shields.io/github/v/release/mattbratt/pc_ships?label=pc_ships&style=flat-square&logo=github" alt="pc_ships Release"></a>
 
-</div>
+</div> 
 
 ---
 
