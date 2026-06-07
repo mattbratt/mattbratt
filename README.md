@@ -52,7 +52,7 @@ When I'm not writing code, I'm probably spending time outdoors with my photograp
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🛸 <a href="https://github.com/mattbratt/iss_track" target="_blank">ISS Track</a>
 > *Because knowing exactly where the space station is overhead should be a dashboard, not a browser tab.*
