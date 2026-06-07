@@ -6,7 +6,7 @@
 #### 📍 Titusville, FL &nbsp;·&nbsp; Literally next door to Kennedy Space Center 🚀
 
 <a href="https://www.linkedin.com/in/matthewabaker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Matthew%20Baker-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/mattbratt" target="_blank"><img src="https://img.shields.io/badge/GitHub-mattbratt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/GitHub-mattbratt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 <a href="https://x.com/mattbratt" target="_blank"><img src="https://img.shields.io/badge/X-@mattbratt-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 <a href="https://buymeacoffee.com/mattbratt" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mattbratt-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 
