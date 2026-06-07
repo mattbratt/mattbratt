@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Matthew Baker
+# Welcome to my GitHub, I'm Matthew Baker.
 
 ### Software & IoT Developer — Building things that talk to other things
 #### 📍 Titusville, FL &nbsp;·&nbsp; Literally next door to Kennedy Space Center 🚀
