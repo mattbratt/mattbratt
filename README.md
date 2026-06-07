@@ -72,20 +72,6 @@ A Home Assistant integration that pulls real-time ship tracking data from Port C
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/mattbratt/iss_track/commits/main" target="_blank"><img src="https://img.shields.io/github/commit-activity/y/mattbratt/iss_track?label=iss_track%20commits%2Fyr&style=flat-square&logo=github" alt="ISS Track Commits"></a>
-<a href="https://github.com/mattbratt/pc_ships/commits/main" target="_blank"><img src="https://img.shields.io/github/commit-activity/y/mattbratt/pc_ships?label=pc_ships%20commits%2Fyr&style=flat-square&logo=github" alt="pc_ships Commits"></a>
-
-<a href="https://github.com/mattbratt/iss_track/releases" target="_blank"><img src="https://img.shields.io/github/v/release/mattbratt/iss_track?label=iss_track&style=flat-square&logo=github" alt="ISS Track Release"></a>
-<a href="https://github.com/mattbratt/pc_ships/releases" target="_blank"><img src="https://img.shields.io/github/v/release/mattbratt/pc_ships?label=pc_ships&style=flat-square&logo=github" alt="pc_ships Release"></a>
-
-</div> 
-
----
-
 ## 💬 Let's Connect
 
 I'm open to interesting projects, collaboration, and conversations about IoT, home automation, embedded systems, or anything that involves making code do something tangible in the real world.
