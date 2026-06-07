@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm a developer who enjoys wrestling complex problems into elegant, working code — and then automating everything around them for good measure. My sweet spot sits at the intersection of **software development**, **IoT/embedded systems**, and **home automation**. If it can be networked, monitored, or scripted, I'm probably already thinking about it.
+I'm a developer who enjoys wrestling complex problems into elegant, working code — and then automating everything around them for good measure. My sweet spot sits at the intersection of **software development**, **IoT/embedded systems**, and **automation**, for industrial or for homes. If it can be networked, monitored, or scripted, I'm probably already done it or thinking about it.
 
 Living on Florida's Space Coast means rockets are part of the scenery. That proximity inspires a lot of what I build — from tracking the ISS overhead to monitoring the cruise ships rolling out of Port Canaveral. I like projects that connect the physical world to the digital one in ways that are actually *useful*.
 
-When I'm not writing code, I'm probably deep in a home automation rabbit hole, flying drones, tinkering with radio gear, or watching a rocket launch from my backyard.
+When I'm not writing code, I'm probably spending time outdoors with my photography, flying drones, tinkering with radio gear, or watching a rocket launch from my backyard with family. 
 
 ---
 
