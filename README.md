@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm a developer who enjoys wrestling complex problems into elegant, working code — and then automating everything around them for good measure. My sweet spot sits at the intersection of **software development**, **IoT/embedded systems**, and **automation**, for industrial or for homes. If it can be networked, monitored, or scripted, I'm probably already done it or thinking about it.
+I'm a developer who enjoys wrestling complex problems into elegant, working code - and then automating everything around them for good measure. My sweet spot sits at the intersection of **software development**, **IoT/embedded systems**, and **automation**, for industrial or for homes. If it can be networked, monitored, or scripted, I'm probably already done it or thinking about it.
 
-Living on Florida's Space Coast means rockets are part of the scenery. That proximity inspires a lot of what I build — from tracking the ISS overhead to monitoring the cruise ships rolling out of Port Canaveral. I like projects that connect the physical world to the digital one in ways that are actually *useful*.
+Living on Florida's Space Coast means rockets are part of the scenery. That proximity inspires a lot of what I build - from tracking the ISS overhead to monitoring the cruise ships rolling out of Port Canaveral. I like projects that connect the physical world to the digital one in ways that are actually *useful*.
 
 When I'm not writing code, I'm probably spending time outdoors with my photography, flying drones, tinkering with radio gear, or watching a rocket launch from my backyard with family. 
 
@@ -57,14 +57,14 @@ When I'm not writing code, I'm probably spending time outdoors with my photograp
 ### 🛸 <a href="https://github.com/mattbratt/iss_track" target="_blank">ISS Track</a>
 > *Because knowing exactly where the space station is overhead should be a dashboard, not a browser tab.*
 
-A Home Assistant integration that tracks the International Space Station in real-time. Displays live orbital data — latitude, longitude, altitude, speed — on an interactive world map with day/night views, sun and moon positions, and a direct link to the ISS live feed. Built from scratch; auto-creates its own Space dashboard on install.
+A Home Assistant integration that tracks the International Space Station in real-time. Displays live orbital data — latitude, longitude, altitude, speed - on an interactive world map with day/night views, sun and moon positions, and a direct link to the ISS live feed. Built from scratch; auto-creates its own Space dashboard on install.
 
 `JavaScript` `Python` `Home Assistant` `HACS` `Orbital Mechanics`
 
 ---
 
 ### 🚢 <a href="https://github.com/mattbratt/pc_ships" target="_blank">Port Canaveral Ships</a>
-> *Know what's coming in, going out, and docked at one of the world's busiest cruise ports — right from your smart home.*
+> *Know what's coming in, going out, and docked at one of the world's busiest cruise ports - right from your smart home.*
 
 A Home Assistant integration that pulls real-time ship tracking data from Port Canaveral, FL. Monitor cargo and passenger vessels by status (In Port, Confirmed, Scheduled, Departed), with full sensor attributes per ship. HACS-compatible and actively maintained with 8+ releases.
 
@@ -85,7 +85,7 @@ I'm open to interesting projects, collaboration, and conversations about IoT, ho
 
 <div align="center">
 
-*"The best code is the kind that makes you forget you wrote it — because it just works."*
+*"The best code is the kind that makes you forget you wrote it - because it just works."*
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=mattbratt&style=flat-square&color=blue) -->
 
